@@ -5,9 +5,6 @@ date: "22 juni 2018"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Jod/Iodine MCRA Trial run
 
