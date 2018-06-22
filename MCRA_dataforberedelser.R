@@ -49,7 +49,9 @@ str(t)
 dim(t) # 64173 observasioner fordelt paa  4 variabler
 #---------------------------------------------------------------------
 # skriv ut .csv fil til opplasting i MCRA
-write.csv(t, "Consumptions1_2.csv", sep = ",", quote=F)
+
+# write.csv(t, "Consumptions1_2.csv", sep = ",", quote=F)
+
 #---------------------------------------------------------------------
 # plott og sjekk data
 
